@@ -18,9 +18,9 @@ Ontwerp door de Haagse Makers. Openen JSON met <a href="http://easyeda.com" targ
 Iets zoals dit:-<br>
 <br>
 wpas wpa[] = {<br>
-	{ "" , "" },							// Reserved for WiFi Manager<br>
-	{ "Volksrepubliek", "e1gen@volk@3igenland!!" },<br>
-	{ "ape", "beer" }<br>
+	  { "" , "" },							// Reserved for WiFi Manager<br>
+	  { "Volksrepubliek", "e1gen@volk@3igenland!!" },<br>
+	  { "ape", "beer" }<br>
 };<br>
 <br>
 9. Aansluiten gateway (incl wemos uiteraard!!) op jouw peecee, en kies in ArduinoIDE de jusite COM-poort.<br>
