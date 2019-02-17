@@ -5,7 +5,7 @@ Ontwerp door de Haagse Makers. Openen JSON met <a href="http://easyeda.com" targ
 <br>
 <img src="https://github.com/pappavis/ESP8266-single-channel-lora-gateway/blob/master/plaatjes/IMG_6180%20Haagse%20Makers%20gateway_klein.jpg?raw=true" width="70%" height="70%">
 <br><br>
-**Setup Stappenplan**;<br>
+<h1>**Setup Stappenplan**;</h1>
 1. Download en Installeer GIThub client.<br>
 2. Installeer Arduino IDE & ESP8266 boards.<br>
 3. Open GIT Shell, en doen git clone https://github.com/things4u/ESP-1ch-Gateway-v5.0<br>
