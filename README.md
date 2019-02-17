@@ -1,4 +1,4 @@
-**ESP gateway**
+**ESP8266 gateway The Things Network**
 Ontwerp door de Haagse Makers. Openen JSON met <a href="http://easyeda.com" target="_blank">EasyEDA</a><br>
 <br>
 <a href="https://www.tindie.com/products/VliegendeVogel/lora-gateway-ttn-for-beginners-esp8266/" target="_blank">BUY HERE</a> from tindie.com
