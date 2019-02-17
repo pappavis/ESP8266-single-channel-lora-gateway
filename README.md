@@ -31,7 +31,7 @@ wpas wpa[] = {<br>
 11. Na upload, open debugscherm<br>
 12. Druk resetknop op de wemos.<br>
 13. Hij zou nu direct met WiFi moeten verbinden.<br>
-
+<i class="fa fa-car" style="font-size:48px;"></i>
 en je ziet iets als deze:<br>
 <br>
 Host esp8266-66d093 WiFi Connected to MyWiFiNetwork on IP=192.168.2.82<br>
