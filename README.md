@@ -45,3 +45,6 @@ Gateway ID: 807D3AFFFFA7D093, Listening at SF9 on 868.10 Mhz.<br>
 <br>
 Je gateway is nu online!!<br>
 <br>
+<br>
+#easylab4kids #e4kdenhaag<br>
+<br>
