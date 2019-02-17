@@ -1,4 +1,4 @@
-**ESP gateway**
+**ESP8266 gateway The Things Network**
 Ontwerp door de Haagse Makers. Openen JSON met <a href="http://easyeda.com" target="_blank">EasyEDA</a><br>
 <br>
 <a href="https://www.tindie.com/products/VliegendeVogel/lora-gateway-ttn-for-beginners-esp8266/" target="_blank">BUY HERE</a> from tindie.com
@@ -9,7 +9,7 @@ Ontwerp door de Haagse Makers. Openen JSON met <a href="http://easyeda.com" targ
 1. Download en Installeer GIThub client.<br>
 2. Installeer Arduino IDE & ESP8266 boards.<br>
 3. Open GIT Shell, en doen git clone https://github.com/things4u/ESP-1ch-Gateway-v5.0<br>
-4. Open windows verkenner, kopieer de libs in de gedownload map naar arduino/libraries<br>
+4. Open windows verkenner, kopieer de libs in de gedownload map naar &lt;Documents&gt;/Arduino/libraries<br>
 5. Start ArduinoIDE, en open ESP-sc-gway.ino<br>
 6. Kies tabblad ESP-sc-gway.h<br>
 7. zoeken naar "fire", "water"<br>
