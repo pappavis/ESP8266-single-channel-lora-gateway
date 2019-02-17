@@ -42,3 +42,5 @@ Gateway ID: 807D3AFFFFA7D093, Listening at SF9 on 868.10 Mhz.<br>
 17. Opslaan. Je zou een connceted tekstje moeten zien.<br>
 Je gateway is nu online!!<br>
 <br>
+<img src="https://github.com/pappavis/ESP8266-single-channel-lora-gateway/blob/master/plaatjes/The_Things_Network_Console20190217.jpg?raw=true" title="The things network console">
+<br>
