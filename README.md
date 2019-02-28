@@ -1,7 +1,7 @@
 <h1>ESP8266 gateway The Things Network</h1>
-Standalone LoRa gateway based upon Wemos D1.<br>
+Standalone LoRa gateway based upon Wemos D1.
 <br>
-Design by http://HaagseMakers.nl.<br>Openen JSON met <a href="http://easyeda.com" target="_blank">EasyEDA</a><br>
+Design by http://HaagseMakers.nl.<br>
 <br>
 <h2><a href="https://www.tindie.com/products/VliegendeVogel/lora-gateway-ttn-for-beginners-esp8266/" target="_blank">BUY HERE</a> from tindie.com</h2>
 <br>
@@ -49,6 +49,7 @@ Gateway ID: 807D3AFFFFA7D093, Listening at SF9 on 868.10 Mhz.<br>
 <br>
 Je gateway is nu online!!<br>
 <br>
+Openen JSON met <a href="http://easyeda.com" target="_blank">EasyEDA</a><br>
 <br>
 #easylab4kids #e4kdenhaag<br>
 <br>
